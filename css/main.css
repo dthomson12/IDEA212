@@ -10,3 +10,8 @@ a {
 h1 {
   color: #808080;
 }
+
+.top-nav a {
+  font-size: 1.5em;
+  padding-bottom: 1em;
+}
