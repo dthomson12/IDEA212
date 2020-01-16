@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Online lecture notes for the IDEA program">
+    <meta name="author" content="Diana Thomson">
+    <title>IDEA Program Lecture Notes</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/main.css">
+  </head>
+  <body>
+      
+      <div class="container">
+      <div class="top-nav"><a href="index.html">IDES 212</a></div>
+ <hr>
+ <h2>UX Strategy - 1</h2>
+ <hr>
+ <h3>SectionHeader</h3>
+  
+<p>Paragraphy</p>
+  
+<h3>Section Header</h3>
+<ul>
+<li>list item</li>
+</ul>
+
+<p><img src="GoalBasedPersona.jpg"></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rIwoweiC3n4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h3>Takeaways</h3>
+<ul>
+  <li>takeaway list item</li>
+</ul>
+
+<h3>Best Practices</h3>
+<ul>
+  <li>best practices list item</li>
+</ul>
+
+<h3>Examples</h3>
+
+<img src="Uber1.png"></p>
+
+<h3>Assignment</h3>
+
+<ul>
+<li>Cypress Mountain Resort</li>
+<li>Identify <strong>three</strong> personas that represent the humans that would be likely to visit the resort website, and briefly summarize their use case.</li>
+<li>Select <strong>one</strong> of those personas and build a fictional / proto persona that includes data from the other persona types.</li>
+<li>Submission: IDES 212 folder on the server</li>
+<li><strong>Due January 24 2020 at 12:00pm</strong></li>
+</ul>
+
+
+<h3>Evaluation Critiera </h3>
+
+<table style="width:100%">
+  <tr>
+    <th>Value</th>
+    <th>Outcomes</th>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>The three personas you identified & summarized demonstrate an understanding of the differences between how a human would use the website.</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>
+      <ul>
+        <li>Your persona includes characteristics from multiple persona types. Eg. Your fictional persona could also include goal oriented information, or role based details. You may present the information using "engaging" techniques that bring your persona to life.</li>
+      <li>Your persona follows best practices.</li>
+      <li>Your persona is realistic.</li>
+      </ul> </td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>Your persona is presented in a way that clearly displays the different characteristics, is logically organized, and follows best practices. It is also visually pleasing to look at.</td>
+  </tr>  
+</table>
+
+
+   </div>
+   </body>
