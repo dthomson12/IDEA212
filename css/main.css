@@ -1,7 +1,7 @@
 img {
   max-width: 100%;
   height: auto;
-  border-style: 1px solid #dddddd;
+  border: 10px solid #dddddd;
 }
 
 .mobile {
