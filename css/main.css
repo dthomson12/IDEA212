@@ -36,4 +36,9 @@ table {
  margin-bottom: 20px;
 }
 
+.alert {
+ font-size: 4em;
+ color: red;
+}
+
 
