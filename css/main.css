@@ -1,12 +1,12 @@
 img {
   max-width: 100%;
   height: auto;
+  border-style: 1px solid #dddddd;
 }
 
 .mobile {
  max-width: 50%;
  height: auto;
- border-style: 1px solid #dddddd;
 }
 
 a {
