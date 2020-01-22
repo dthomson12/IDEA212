@@ -3,6 +3,11 @@ img {
   height: auto;
 }
 
+.mobile img {
+ max-width: 50%;
+ height: auto;
+}
+
 a {
   color: #009999;
 }
