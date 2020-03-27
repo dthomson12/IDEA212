@@ -5,9 +5,29 @@
   color: white;
   text-align: center;
   padding-top: 5px;
-  padding-bottom: 5px;
+  padding-bottom: 10px;
 }
 
 .PromoHeader p {
  color: white; 
+}
+
+.Header {
+  background-color: #E9E9E9;
+  width: 100%;
+  height: 30px;
+  color: #4F4F4F;
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+
+.Search {
+  color: #e9e9e9; 
+  align="left"; 
+}
+
+.Cart {
+  color: #e9e9e9; 
+  align="right";
+  
 }
