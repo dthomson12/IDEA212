@@ -11,17 +11,3 @@
 .PromoHeader p {
  color: white; 
 }
-
-.Header {
-  background-color: #E9E9E9;
-  width: 100%;
-  height: 30px;
-  color: #4F4F4F;
-  padding-top: 5px;
-  padding-bottom: 10px;
-}
-
-.Search {
- background-color: red; 
- color: blue;
-}
