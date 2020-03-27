@@ -1,8 +1,11 @@
 .PromoHeader {
-  background-color: orange;
+  background-color: #4F4F4F;
   width: 100%;
   height: 40px;
   color: white;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .PromoHeader p {
